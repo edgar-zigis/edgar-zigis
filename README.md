@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  
+  <img width="55%" style="float: left" src = "https://github-readme-stats.vercel.app/api?username=edgar-zigis&show_icons=true&count_private=true&theme=swift&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img width="44%" style="float: left" src = "https://github-readme-streak-stats.herokuapp.com/?user=edgar-zigis&theme=swift&hide_border=true&background=FFFFFF00">
+</div>
 
 <!--
 **edgar-zigis/edgar-zigis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
