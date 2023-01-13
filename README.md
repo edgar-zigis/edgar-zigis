@@ -1,6 +1,4 @@
 <div align="center">
-  
-  <img width="55%" style="float: left" src = "https://github-readme-stats.vercel.app/api?username=edgar-zigis&show_icons=true&count_private=true&theme=swift&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img width="44%" style="float: left" src = "https://github-readme-streak-stats.herokuapp.com/?user=edgar-zigis&theme=swift&hide_border=true&background=FFFFFF00">
 </div>
 
