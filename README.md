@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="44%" style="float: left" src = "https://github-readme-streak-stats.herokuapp.com/?user=edgar-zigis&theme=swift&hide_border=true&background=FFFFFF00">
+  <img width="44%" style="float: left" src = "https://github-readme-stats.vercel.app/api?username=edgar-zigis&rank_icon=percentile&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </div>
 
 <!--
