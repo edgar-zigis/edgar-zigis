@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="44%" style="float: left" src = "https://github-readme-stats.vercel.app/api?username=edgar-zigis&rank_icon=percentile&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img width="44%" style="float: left" src = "https://github-readme-stats.vercel.app/api?username=edgar-zigis&show_icons=true&include_all_commits=true&rank_icon=percentile&custom_title=Contribution%20Stats&disable_animations=true&theme=swift">
+  <img width="33.5%" style="float: left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=edgar-zigis&layout=compact&langs_count=6&custom_title=Used%20Languages&disable_animations=true&theme=swift">
 </div>
 
 <!--
